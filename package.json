@@ -1,0 +1,19 @@
+{
+  "name": "indrepl",
+  "description": "indesign repl",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/indrepl.git"
+  },
+  "homepage": "https://github.com/nbqx/indrepl",
+  "main": "index.js",
+  "bin": "bin/cmd.js",
+  "license": "MIT",
+  "dependencies": {
+    "terminal-menu": "^0.3.2",
+    "fakestk": "^0.1.1",
+    "cli-color": "^0.3.2"
+  }
+}
