@@ -1,6 +1,6 @@
 ## indrepl
 
-![screenshot](https://github.com/nbqx/indrepl/raw/master/ss/sc.gif)
+![screenshot](https://github.com/nbqx/indrepl/raw/master/ss/ss.gif)
 
 indesign extendscript repl
 
